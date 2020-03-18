@@ -4,7 +4,7 @@ How to set up QtFirebase for inclusion and to utilize Firebase modules in your p
 For a working and up-to-date example that can be compiled in Qt Creator please follow the **Quick start** section found in the [QtFirebaseExample](https://github.com/Larpon/QtFirebaseExample) README. (The example app links back here in some places - but not all). It's strongly adviced to see how the example app is setup in-order to avoid any missing entries.
 
 ## Prerequisities
-QtFirebase rely on a relativly large software stack. Many common errors people encounter with QtFirebase is due to little or no knownledge of the complete stack of technology used. It's therefore stongly adviced that developers, as a minimum, know or familiarize themselves with the following software in general before diving into the project.
+QtFirebase rely on a relativly large software stack. Many common errors people encounter with QtFirebase is due to little or no knownledge of the complete stack of technology used. It's therefore strongly adviced that developers, as a minimum, know or familiarize themselves with the following software in general before diving into the project.
 
 In general
 [Firebase](https://firebase.google.com/docs), [Firebase C++ SDK](https://firebase.google.com/docs/cpp/setup), [Qt](https://qt.io), [QML](https://doc.qt.io/qt-5/qmlapplications.html), [QMake](https://doc.qt.io/qt-5/qmake-manual.html)
